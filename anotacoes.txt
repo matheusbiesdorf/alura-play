@@ -1,0 +1,10 @@
+No terminal, dentro da pasta alura-play
+
+npm-init
+
+npm install json-server
+
+json-server --watch db.json
+
+http://localhost:3000/videos
+
